@@ -123,8 +123,6 @@ Evaluated on 22 AI-generated interactions using `llama3.2` (3B parameters) as bo
 | `instructions_follow`  | 100%      | Agent consistently follows system prompt     |
 | `tool_call_search`     | 73%       | Retrieval invoked before answering           |
 | `answer_relevant`      | 59%       | Primary quality signal for RAG systems       |
-| `answer_citations`     | 45%       | Citation compliance with source links        |
-| `answer_clear`         | 32%       | Clarity and accuracy of responses            |
 
 <details>
 <summary>Full evaluation breakdown (all 7 criteria)</summary>
