@@ -171,3 +171,9 @@ Evaluated on 22 AI-generated interactions using `llama3.2` (3B parameters) as bo
 ## Source Dataset
 
 [`jbranchaud/til`](https://github.com/jbranchaud/til) — Josh Branchaud's personal TIL collection. 1,768 markdown files covering: awk, git, go, html, javascript, linux, postgresql, python, rails, ruby, tmux, vim, and more.
+
+## Author
+
+**Maria Camila Gonzalez Nuñez**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marianunez--data-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marianunez-data)
